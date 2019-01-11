@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_content_big">30dp</dimen>
+    <dimen name="text_content_little_big">22dp</dimen>
+    <dimen name="text_content_normal">15dp</dimen>
+    <dimen name="text_content_norma_hold">18dp</dimen>
+    <dimen name="text_home_money_big">30dp</dimen>
+    <dimen name="text_description">13dp</dimen>
+    <dimen name="text_title">15dp</dimen>
+    <dimen name="text_title_big">20dp</dimen>
+
+    <dimen name="px_1_to_dp">0.5dp</dimen>
+    <dimen name="px_2_to_dp">1dp</dimen>
+    <dimen name="px_5_to_dp">2.5dp</dimen>
+    <dimen name="px_10_to_dp">5.06dp</dimen>
+    <dimen name="px_15_to_dp">7.66dp</dimen>
+    <dimen name="px_23_to_dp">11.50dp</dimen>
+    <dimen name="px_24_to_dp">12.00dp</dimen>
+    <dimen name="px_26_to_dp">13.00dp</dimen>
+    <dimen name="px_20_to_dp">10.00dp</dimen>
+    <dimen name="px_28_to_dp">14.00dp</dimen>
+    <dimen name="px_30_to_dp">15.00dp</dimen>
+    <dimen name="px_36_to_dp">18.00dp</dimen>
+    <dimen name="px_60_to_dp">30.00dp</dimen>
+    <dimen name="px_40_to_dp">20.00dp</dimen>
+    <dimen name="px_48_to_dp">24.00dp</dimen>
+    <dimen name="px_70_to_dp">35dp</dimen>
+    <dimen name="px_88_to_dp">43.50dp</dimen>
+    <dimen name="bezier_width">90dp</dimen>
+    <dimen name="bezier_height">60dp</dimen>
+    <dimen name="px_90_to_dp">45dp</dimen>
+    <dimen name="textandiconmargin">10dp</dimen>
+</resources>
